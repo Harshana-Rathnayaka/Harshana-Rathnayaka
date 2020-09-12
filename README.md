@@ -12,7 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Harshana%20Rathnayaka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][dreeko]
+[<img align="left" alt="Harshana%20Rathnayaka | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Harshana%20Rathnayaka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Harshana%20Rathnayaka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Harshana%20Rathnayaka | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
@@ -25,6 +26,7 @@
 [<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][java]
+[<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp]
 [<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
 [<img align="left" alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][dart]
 [<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][flutter]
@@ -51,6 +53,7 @@
 [css]: https://en.wikipedia.org/wiki/CSS
 [java]: https://www.java.com/en/
 [php]: https://www.php.net/
+[csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [dart]: https://dart.dev/
 [laravel]: https://laravel.com/
 [flutter]: https://flutter.dev/
@@ -63,3 +66,4 @@
 [bitbucket]: https://bitbucker.org
 [bootstrap]: https://getbootstrap.com/
 [azure]: https://azure.microsoft.com/en-us/
+[dreeko]: https://fb.com/DreekoCorporations/
