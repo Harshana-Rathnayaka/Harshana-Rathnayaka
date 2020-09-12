@@ -49,7 +49,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshana-Rathnayaka)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshana-Rathnayaka&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://acceura.com
 [instagram]: https://instagram.com/hash_dreeko
