@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][dreeko]
+[<img align="left" alt="Dreeko Corporations" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][dreeko]
 [<img align="left" alt="Harshana%20Rathnayaka | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Harshana%20Rathnayaka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Harshana%20Rathnayaka | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -42,6 +42,10 @@
 
 <br />
 <br />
+
+---
+
+[![Harshana's github stats](https://github-readme-stats.vercel.app/api?username=Harshana-Rathnayaka&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://acceura.com
 [instagram]: https://instagram.com/hash_dreeko
