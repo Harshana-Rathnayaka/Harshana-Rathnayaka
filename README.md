@@ -1,6 +1,7 @@
 ### Hi there, I'm Harshana 👋
 
-[![Website](https://img.shields.io/website?label=Dreeko%20Corporations&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fb.com/DreekoCorporations/)
+[![Website](https://img.shields.io/website?label=Dreeko%20Corporations&style=for-the-badge&url=https%3A%2F%2Ffacebook.com%2FDreekoCorporations)](https://fb.com/DreekoCorporations/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">][facebook]
 
 ## I'm a Software Engineer!
 
