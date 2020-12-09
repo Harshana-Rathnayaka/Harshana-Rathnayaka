@@ -51,7 +51,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshana-Rathnayaka&hide_border=true&langs_count=10&theme=dark&card_width=490)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [website]: https://acceura.com
 [instagram]: https://instagram.com/hash_dreeko
 [linkedin]: https://linkedin.com/in/harshana-rathnayaka
