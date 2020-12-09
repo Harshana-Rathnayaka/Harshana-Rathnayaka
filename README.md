@@ -49,7 +49,7 @@
 
 [![Harshana's github stats](https://github-readme-stats.vercel.app/api?username=Harshana-Rathnayaka&hide=contribs&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshana-Rathnayaka&hide_border=true&langs_count=10&theme=dark&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshana-Rathnayaka&hide_border=true&langs_count=10&theme=dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://acceura.com
