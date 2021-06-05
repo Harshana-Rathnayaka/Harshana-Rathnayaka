@@ -8,7 +8,7 @@
 * 🔭 I’m currently working at [Accuera Solutions][website]!
 * 🌱 I’m currently learning everything 🤣
 * 👯 I’m looking to collaborate with other developers
-* 🥅 2020 Goals: Improve my knowledge on Flutter and Rest APIs
+* 🥅 2021 Goals: Improve my knowledge on Flutter and Rest APIs
 * ⚡ Fun fact: I love to watch movies and code
 
 ### Connect with me:
